@@ -147,6 +147,9 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
  * OBTENER LA DATETIME ACTUAL Y/0 CONVERTIRLA A LOS DIFERENTES FORMATOS:
  * https://it-tools.tech/date-converter
  *
+ * CAMBIOS DE HORARIOS DE INVIERNO/VERANO EN DIFERENTES ZONAS HORARIAS:
+ * https://cambiohorario.com/eu/espana/
+ *
  * LISTADO DE ZONAS HORARIAS:
  * https://docs.rs/chrono-tz/latest/chrono_tz/enum.Tz.html
  *
@@ -165,6 +168,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
  * https://github.com/jeremychone-channel/rust-axum-course
  *
  * https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/201
+ * https://www.w3schools.com/tags/ref_urlencode.ASP
  *
  * https://mkyong.com/web/how-to-pretty-print-json-output-in-curl/
  * https://linuxize.com/post/curl-rest-api/?utm_content=cmp-true
